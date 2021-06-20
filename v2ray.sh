@@ -100,7 +100,7 @@ xrayr_trojan()
 {
     suidaoanquan
     dockerinstall
-    git clone https://github.com/emilyliu/XrayR
+    git clone https://github.com/emily12180309/XrayR
     cd XrayR
     read -p "请输入面板网站(结尾不要带/ 例如：https://baidu.com): " Userurl
 	read -p "请输入面板key: " UserKey
