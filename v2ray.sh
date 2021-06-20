@@ -8,7 +8,7 @@ start_menu(){
 echo && echo -e " Linserver一键安装脚本
   
 ————————————请选择安装类型————————————
- ${Green_font_prefix}1.${Font_color_suffix} xrayr_trojan
+ ${Green_font_prefix}1.${Font_color_suffix} xrayr_v2ray
  ${Green_font_prefix}2.${Font_color_suffix} esc 
 ————————————————————————————————" && echo
 
