@@ -8,7 +8,7 @@ start_menu(){
 echo && echo -e " Linserver一键安装脚本
   
 ————————————请选择安装类型————————————
- ${Green_font_prefix}1.${Font_color_suffix} xrayr_v2ray
+ ${Green_font_prefix}1.${Font_color_suffix} xrayr_trojan
  ${Green_font_prefix}2.${Font_color_suffix} esc 
 ————————————————————————————————" && echo
 
@@ -17,7 +17,7 @@ echo
 read -p " 请输入数字 [0-9]:" num
 case "$num" in
 	1)
-	xrayr_v2ray
+	xrayr_trojan
 	;;
 	2)
 	exit 1
