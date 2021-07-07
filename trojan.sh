@@ -5,10 +5,7 @@ export PATH
 #开始菜单
 start_menu(){
   clear
-echo && echo -e " 
-特别鸣谢XrayR
-Trojan一键安装脚本 
-有问题联系 @emilyliu
+echo && echo -e " Linserver一键安装脚本
   
 ————————————请选择安装类型————————————
  ${Green_font_prefix}1.${Font_color_suffix} xrayr_trojan
